@@ -8,5 +8,7 @@
 3. The file 'nesarc_pds.csv' is the codebook. This analysis used participant data from Wave 1 of the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) Study.
 4. The file 'regressionresults.ipynb' contains all analyses + visualizations of respective results
 
-#Background
+# Background 
+Read the intentions and methods of this study here: 
+./proposedresearch.pdf
 
