@@ -9,6 +9,6 @@
 4. The file 'regressionresults.ipynb' contains all analyses + visualizations of respective results
 
 # Background 
-Read the intentions and methods of this study here: 
-./proposedresearch.pdf
+[Read the intentions and methods of this analysis here](https://github.com/yhwang2746/ComorbidityAnalysis/blob/e6ebb91bebf5e2d375f7314756847e44e16e9acc/proposedresearch.pdf)
+
 
